@@ -1,0 +1,37 @@
+{
+  "publications": [
+    {
+      "title": "On the relationship between neural tangent kernel frobenius distance and distillation sample complexity.",
+      "authors": [
+        "Arnav Sharma",
+        "Ahmed Wez",
+        "Karthik Srikumar"
+      ],
+      "venue": "Lock-LLM Workshop At NeurIPS 2025",
+      "thumbnail": "images/thumbs/1.jpg",
+      "selected": 1,
+      "award": "",
+      "links": {
+        "pdf": "https://openreview.net/pdf?id=UpMG1bPKSB"
+      }
+    },
+    {
+      "title": "Benchmarking Autoformalization and Subsequent Execution of Mathematical Reasoning in Large Language Models through Chain-of-Thought.",
+      "authors": [
+        "Arnav Sharma",
+        "Drishti Sharma",
+        "Ahmed Wez",
+        "Brandon Yee"
+      ],
+      "venue": "INFORMS Optimzation Society Conference",
+      "thumbnail": "images/thumbs/2.jpg",
+      "selected": 1,
+      "award": "",
+      "links": {
+        "pdf": "https://www.cortexpd.org/papers/Benchmarking_Autoformalization_and_Subsequent_Execution_of_Mathematical_Reasoning_in_Large_Language_Models_through_Chain_of_Thought.pdf",
+        "project": "https://syntexis.vercel.app/",
+        "code": "https://github.com/ArnavSharma938/SYNTEXIS/tree/main"
+      }
+    }
+  ]
+}
